@@ -1,0 +1,1 @@
+receptionist: semaphore.c:138: semUp: Assertion `sindex>0' failed.
